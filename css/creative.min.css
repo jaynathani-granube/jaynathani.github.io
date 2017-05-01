@@ -255,6 +255,12 @@
    width: 480px;
    height: 258px;
  }
+.contact{
+  color: #ffffff;
+}
+.contact a{
+  color: #ffffff;
+}
 
  header{
    min-height:auto;
