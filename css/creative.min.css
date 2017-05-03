@@ -233,17 +233,73 @@
    padding: 4px 10px;
    display: inline-block;
  }
+ .social .fa-facebook {
+     color: #eb3812;
+     border-radius: 100%;
+     padding: 10px 40px;
+     display:inline-block;
+     line-height:40px;
+     background: #ffffff;
+ }
  .social .fa-facebook:hover {
-     color: #4060A5;
+     color: #ffffff;
+     border-radius: 100%;
+     padding: 10px 40px;
+     display:inline-block;
+     line-height:40px;
+     background: #4060A5;
+     transition: 0.35s;
+ }
+ .social .fa-google-plus {
+     color: #eb3812;
+     border-radius: 100%;
+     padding: 10px 40px;
+     display:inline-block;
+     line-height:40px;
+     background: #ffffff;
  }
  .social .fa-google-plus:hover {
-     color: #e64522;
+   color: #ffffff;
+   border-radius: 100%;
+   padding: 10px 40px;
+   display:inline-block;
+   line-height:40px;
+   background: #e64522;
+   transition: 0.35s;
+ }
+ .social .fa-github {
+     color: #eb3812;
+     border-radius: 100%;
+     padding: 10px 40px;
+     display:inline-block;
+     line-height:40px;
+     background: #ffffff;
  }
  .social .fa-github:hover {
-     color: #343434;
+   color: #ffffff;
+   border-radius: 100%;
+   padding: 10px 40px;
+   display:inline-block;
+   line-height:40px;
+   background: #343434;
+   transition: 0.35s;
+ }
+ .social .fa-linkedin {
+     color: #eb3812;
+     border-radius: 100%;
+     padding: 10px 40px;
+     display:inline-block;
+     line-height:40px;
+     background: #ffffff;
  }
  .social .fa-linkedin:hover {
-     color: #0094BC;
+   color: #ffffff;
+   border-radius: 100%;
+   padding: 10px 40px;
+   display:inline-block;
+   line-height:40px;
+   background: #0094BC;
+   transition: 0.35s;
  }
  .mfp-iframe:hover{
    color: #000;
