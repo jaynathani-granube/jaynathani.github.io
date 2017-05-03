@@ -253,7 +253,7 @@
  .social .fa-google-plus {
      color: #eb3812;
      border-radius: 100%;
-     padding: 10px 40px;
+     padding: 10px 33px;
      display:inline-block;
      line-height:40px;
      background: #ffffff;
@@ -261,7 +261,7 @@
  .social .fa-google-plus:hover {
    color: #ffffff;
    border-radius: 100%;
-   padding: 10px 40px;
+   padding: 10px 33px;
    display:inline-block;
    line-height:40px;
    background: #e64522;
@@ -270,7 +270,7 @@
  .social .fa-github {
      color: #eb3812;
      border-radius: 100%;
-     padding: 10px 40px;
+     padding: 10px 36px;
      display:inline-block;
      line-height:40px;
      background: #ffffff;
@@ -278,7 +278,7 @@
  .social .fa-github:hover {
    color: #ffffff;
    border-radius: 100%;
-   padding: 10px 40px;
+   padding: 10px 36px;
    display:inline-block;
    line-height:40px;
    background: #343434;
@@ -287,7 +287,7 @@
  .social .fa-linkedin {
      color: #eb3812;
      border-radius: 100%;
-     padding: 10px 40px;
+     padding: 10px 36px;
      display:inline-block;
      line-height:40px;
      background: #ffffff;
@@ -295,7 +295,7 @@
  .social .fa-linkedin:hover {
    color: #ffffff;
    border-radius: 100%;
-   padding: 10px 40px;
+   padding: 10px 36px;
    display:inline-block;
    line-height:40px;
    background: #0094BC;
